@@ -1,4 +1,7 @@
 # yudai-h-twitter-threads
+
+![banner](https://github.com/Yudai-creator/Yudai-creator/blob/master/BANNER%20TWITTER.png)
+
 An archive to gather all my threads through out my journey on twitter. Great pieces of content about Web Development, UI/UX Design and my day to day learnings.
 
 
