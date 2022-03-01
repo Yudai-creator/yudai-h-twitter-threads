@@ -18,10 +18,11 @@ A series of threads about how I learned CSS when I was starting with web develop
 | CSS           |Flex-Box layout, get control of everything in between|https://twitter.com/creator_yudai/status/1496094741548736514?s=21|
 
 
-## Other threads
+## UI/UX design
+I love doing UI design, experiment with UX design, sometimes I write threads about what I learn and my experience in the field.
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
 | UI/UX         |A roadmap and a ton of resources to get started with UI/UX design|https://twitter.com/creator_yudai/status/1491008721031475201?s=21|
-| CSS           |CSS position property|https://twitter.com/creator_yudai/status/1493563044328357888?s=20&t=C6JuvcspNQIEIw448t-P9g|
-| CSS           |CSS position property|https://twitter.com/creator_yudai/status/1493563044328357888?s=20&t=C6JuvcspNQIEIw448t-P9g|
+| UI            |5 Design principles that will make you a better designer |https://twitter.com/creator_yudai/status/1438059184650702851?s=21|
+| UI/UX         |5 Animation Techniques that you can use in your websites to improve UX|https://twitter.com/creator_yudai/status/1436247230202187776?s=21|
