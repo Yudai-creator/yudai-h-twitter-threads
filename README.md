@@ -7,6 +7,7 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 
 ## CSS Series threads
+A series of threads about how I learned CSS when I was starting with web development, maybe you could use this path to get you started with the glorious CSS.
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
