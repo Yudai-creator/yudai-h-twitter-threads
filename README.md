@@ -13,6 +13,8 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 | CSS           |CSS units a comprehensive guide|https://twitter.com/creator_yudai/status/1480533473895104519?s=21|
 | CSS           |CSS most used properties|https://twitter.com/creator_yudai/status/1485968021332152323?s=21|
 | CSS           |Learn about the Box Model|https://twitter.com/creator_yudai/status/1488518125675069443?s=21|
+| CSS           |The Position Property and all its misteries|https://twitter.com/creator_yudai/status/1493563044328357888?s=21|
+| CSS           |Flex-Box layout, get control of everything in between|https://twitter.com/creator_yudai/status/1496094741548736514?s=21|
 
 
 ## Other threads
