@@ -6,7 +6,7 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 
 
-##CSS Series threads
+## CSS Series threads
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
@@ -14,6 +14,7 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 | CSS           |CSS position property|https://twitter.com/creator_yudai/status/1493563044328357888?s=20&t=C6JuvcspNQIEIw448t-P9g|
 
 
+## Other threads
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
