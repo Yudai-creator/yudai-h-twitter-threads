@@ -26,3 +26,6 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UI/UX         |A roadmap and a ton of resources to get started with UI/UX design|https://twitter.com/creator_yudai/status/1491008721031475201?s=21|
 | UI            |5 Design principles that will make you a better designer |https://twitter.com/creator_yudai/status/1438059184650702851?s=21|
 | UI/UX         |5 Animation Techniques that you can use in your websites to improve UX|https://twitter.com/creator_yudai/status/1436247230202187776?s=21|
+| UI/UX         |Take advantage of animations, 5 reasons why 👉 |https://twitter.com/creator_yudai/status/1434884402161623044?s=21|
+| UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+
