@@ -10,8 +10,9 @@ An archive to gather all my threads through out my journey on twitter. Great pie
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
-| CSS           |CSS position property|https://twitter.com/creator_yudai/status/1493563044328357888?s=20&t=C6JuvcspNQIEIw448t-P9g|
-| CSS           |CSS position property|https://twitter.com/creator_yudai/status/1493563044328357888?s=20&t=C6JuvcspNQIEIw448t-P9g|
+| CSS           |CSS units a comprehensive guide|https://twitter.com/creator_yudai/status/1480533473895104519?s=21|
+| CSS           |CSS most used properties|https://twitter.com/creator_yudai/status/1485968021332152323?s=21|
+| CSS           |Learn about the Box Model|https://twitter.com/creator_yudai/status/1488518125675069443?s=21|
 
 
 ## Other threads
