@@ -76,8 +76,7 @@ I decided to take this initiative of making a video every day, with the goal of 
  |https://twitter.com/creator_yudai/status/1488348006579679239?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 19: Talking about twitter spaces |https://twitter.com/creator_yudai/status/1488913749868224523?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 20: Hackers in movies, are they real? |https://twitter.com/creator_yudai/status/1490687601510162443?s=20&t=fm7pMp7QVpCJq6kf44azIA|
-| Video         |Number 21: I keep encouraging people to make these type of videos, or to find a way to break their shyness.
- |https://twitter.com/creator_yudai/status/1491238263113547777?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 21: I keep encouraging people to make these type of videos|https://twitter.com/creator_yudai/status/1491238263113547777?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 22: Travel vlogger 😎 |https://twitter.com/creator_yudai/status/1492238793528725518?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 23: Take time to work on yourself |https://twitter.com/creator_yudai/status/1493300809009926157?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 24: Talking about Stoicism |https://twitter.com/creator_yudai/status/1494735266946457604?s=20&t=fm7pMp7QVpCJq6kf44azIA|
