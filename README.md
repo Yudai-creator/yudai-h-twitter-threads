@@ -31,6 +31,25 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 
 
+
+
+## Popular threads 🚀
+
+| Label         | Topic | Link|
+| ------------- | ------------- |------------- |
+| CSS           |CSS animations code snippets|https://twitter.com/creator_yudai/status/1429638491059769347?s=21|
+| CSS           |Cubic-bezier function|https://twitter.com/creator_yudai/status/1432537522849173507?s=21|
+| CSS           |CSS animations libraries|https://twitter.com/creator_yudai/status/1437334412564258828?s=21|
+| CSS           |CSS transform-origin property|https://twitter.com/creator_yudai/status/1438421563288784899?s=21|
+| Questions     |If you are at job interview, what is the first thing you do?|https://twitter.com/creator_yudai/status/1485724084575035393?s=21|
+| Github        |Discover how to tune up your Github profile to make it more appealing |https://twitter.com/creator_yudai/status/1493925638620819461?s=21|
+| CSS           |Learn how to name your variables the proper way|https://twitter.com/creator_yudai/status/1458600211698401286?s=21|
+| Youtube       |Youtube channels to learn for free|https://twitter.com/creator_yudai/status/1457193950234693632?s=21|
+| Jamstack      |Learn about the Jamstack dev architecture |https://twitter.com/creator_yudai/status/1445842430830518273?s=21|
+
+
+
+
 ## Twitter Video Challenge
 I decided to take this initiative of making a video every day, with the goal of improving my public speaking skills, improve my confidence in front of the camera and improve my english(my native language is spanish). I had fun making these videos, I leave the links here for you to see them, and maybe, take inspiration from them.
 
@@ -56,19 +75,3 @@ I decided to take this initiative of making a video every day, with the goal of 
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
-
-
-
-## Popular threads 🚀
-
-| Label         | Topic | Link|
-| ------------- | ------------- |------------- |
-| CSS           |CSS animations code snippets|https://twitter.com/creator_yudai/status/1429638491059769347?s=21|
-| CSS           |Cubic-bezier function|https://twitter.com/creator_yudai/status/1432537522849173507?s=21|
-| CSS           |CSS animations libraries|https://twitter.com/creator_yudai/status/1437334412564258828?s=21|
-| CSS           |CSS transform-origin property|https://twitter.com/creator_yudai/status/1438421563288784899?s=21|
-| Questions     |If you are at job interview, what is the first thing you do?|https://twitter.com/creator_yudai/status/1485724084575035393?s=21|
-| Github        |Discover how to tune up your Github profile to make it more appealing |https://twitter.com/creator_yudai/status/1493925638620819461?s=21|
-| CSS           |Learn how to name your variables the proper way|https://twitter.com/creator_yudai/status/1458600211698401286?s=21|
-| Youtube       |Youtube channels to learn for free|https://twitter.com/creator_yudai/status/1457193950234693632?s=21|
-| Jamstack      |Learn about the Jamstack dev architecture |https://twitter.com/creator_yudai/status/1445842430830518273?s=21|
