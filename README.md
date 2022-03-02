@@ -16,6 +16,7 @@ A series of threads about how I learned CSS when I was starting with web develop
 | CSS           |Learn about the Box Model|https://twitter.com/creator_yudai/status/1488518125675069443?s=21|
 | CSS           |The Position Property and all its misteries|https://twitter.com/creator_yudai/status/1493563044328357888?s=21|
 | CSS           |Flex-Box layout, get control of everything in between|https://twitter.com/creator_yudai/status/1496094741548736514?s=21|
+| CSS           |The animation and transition property, give life to your website|https://twitter.com/creator_yudai/status/1498636760607244289?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 
 
 ## UI/UX design
