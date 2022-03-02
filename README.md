@@ -31,6 +31,17 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 
 
+## Twitter Video Challenge
+I decided to take this initiative of making a video every day, with the goal of improving my public speaking skills, improve my confidence in front of the camera and improve my english(my native language is spanish). I had fun making these videos, I leave the links here for you to see them, and maybe, take inspiration from them.
+
+| Label         | Topic | Link|
+| ------------- | ------------- |------------- |
+| Video         |Number 1: Introducing the challenge|https://twitter.com/creator_yudai/status/1478457135906312198?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 2: Don't understimate what you can accomplish in a year |https://twitter.com/creator_yudai/status/1478851755727376386?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+
+
+
+
 ## Popular threads 🚀
 
 | Label         | Topic | Link|
