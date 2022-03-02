@@ -38,7 +38,20 @@ I decided to take this initiative of making a video every day, with the goal of 
 | ------------- | ------------- |------------- |
 | Video         |Number 1: Introducing the challenge|https://twitter.com/creator_yudai/status/1478457135906312198?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 2: Don't understimate what you can accomplish in a year |https://twitter.com/creator_yudai/status/1478851755727376386?s=20&t=fm7pMp7QVpCJq6kf44azIA|
-
+| Video         |Number 3: Talking about video games |https://twitter.com/creator_yudai/status/1479214320013688835?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 4: I show you my little office |https://twitter.com/creator_yudai/status/1479826535238582274?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 5: I got a webcam! Talking about the benefits of doing videos|https://twitter.com/creator_yudai/status/1480467073256013824?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 6: Don't let failure discourage you |https://twitter.com/creator_yudai/status/1480975594624065542?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 7: Don't rely on motivation to start doing something, have commitment |https://twitter.com/creator_yudai/status/1481509136512790528?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 8: Learn by doing! |https://twitter.com/creator_yudai/status/1482100751677677576?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 9: Remember to take breaks, avoid burnout |https://twitter.com/creator_yudai/status/1483180198816276481?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 10: If you feel stuck at something, just take break or take walk, and then you’ll see things more clearly.|https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| Video         |Number 11: Don’t rush on things, slow and steady progress is better |https://twitter.com/creator_yudai/status/1484224006567997441?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 12: I had to do this one, record a video outside my comfort zone |https://twitter.com/creator_yudai/status/1484550424145412102?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 
 
 
