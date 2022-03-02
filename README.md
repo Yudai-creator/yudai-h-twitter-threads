@@ -48,7 +48,11 @@ I decided to take this initiative of making a video every day, with the goal of 
 | Video         |Number 10: If you feel stuck at something, just take break or take walk, and then you’ll see things more clearly.|https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | Video         |Number 11: Don’t rush on things, slow and steady progress is better |https://twitter.com/creator_yudai/status/1484224006567997441?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 12: I had to do this one, record a video outside my comfort zone |https://twitter.com/creator_yudai/status/1484550424145412102?s=20&t=fm7pMp7QVpCJq6kf44azIA|
-| Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| Video         |Number 13: Every new day is a gift, embrace it, and make the best of it |https://twitter.com/creator_yudai/status/1485649210074701828?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 14: You need to set your priorities, have a schedule, have a task list, and you’ll see different outcomes |https://twitter.com/creator_yudai/status/1486196788608618503?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 15: Halfway through this challenge |https://twitter.com/creator_yudai/status/1486486911631990785?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 16: How I avoid stress? I write down whatever it is in my mind |https://twitter.com/creator_yudai/status/1486911791691145222?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 17: Cold in Cuba 😅 |https://twitter.com/creator_yudai/status/1487444257887723522?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | Video         |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
