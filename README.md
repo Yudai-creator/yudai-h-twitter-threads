@@ -72,8 +72,7 @@ I decided to take this initiative of making a video every day, with the goal of 
 | Video         |Number 15: Halfway through this challenge |https://twitter.com/creator_yudai/status/1486486911631990785?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 16: How I avoid stress? I write down whatever it is in my mind |https://twitter.com/creator_yudai/status/1486911791691145222?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 17: Cold in Cuba 😅 |https://twitter.com/creator_yudai/status/1487444257887723522?s=20&t=fm7pMp7QVpCJq6kf44azIA|
-| Video         |Number 18: What type of music do you like to listen while working?
- |https://twitter.com/creator_yudai/status/1488348006579679239?s=20&t=fm7pMp7QVpCJq6kf44azIA|
+| Video         |Number 18: What type of music do you like to listen while working?|https://twitter.com/creator_yudai/status/1488348006579679239?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 19: Talking about twitter spaces |https://twitter.com/creator_yudai/status/1488913749868224523?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 20: Hackers in movies, are they real? |https://twitter.com/creator_yudai/status/1490687601510162443?s=20&t=fm7pMp7QVpCJq6kf44azIA|
 | Video         |Number 21: I keep encouraging people to make these type of videos|https://twitter.com/creator_yudai/status/1491238263113547777?s=20&t=fm7pMp7QVpCJq6kf44azIA|
