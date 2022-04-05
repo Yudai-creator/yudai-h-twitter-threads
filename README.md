@@ -35,8 +35,8 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 
 | Label         | Topic | Link|
 | ------------- | ------------- |------------- |
-| Sass        |Sass introduction for beginners|https://twitter.com/creator_yudai/status/1508783328132018181?s=20&t=GZu00Jsfckbxx5w--rdB6g1|
-| UI            |5 Design principles that will make you a better designer |https://twitter.com/creator_yudai/status/1438059184650702851?s=21|
+| Sass          |Sass introduction for beginners|https://twitter.com/creator_yudai/status/1508783328132018181?s=20&t=GZu00Jsfckbxx5w--rdB6g1|
+| Sass          |Sass functions to add complex logic to CSS |https://twitter.com/creator_yudai/status/1511375148368154633?s=20&t=AWoHDBhBs78U72pZdAuxEQ|
 
 ## Popular threads 🚀
 
