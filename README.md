@@ -31,7 +31,12 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 
 
+## Sass threads
 
+| Label         | Topic | Link|
+| ------------- | ------------- |------------- |
+| Sass        |Sass introduction for beginners|https://twitter.com/creator_yudai/status/1508783328132018181?s=20&t=GZu00Jsfckbxx5w--rdB6g1|
+| UI            |5 Design principles that will make you a better designer |https://twitter.com/creator_yudai/status/1438059184650702851?s=21|
 
 ## Popular threads 🚀
 
