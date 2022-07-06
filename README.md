@@ -31,6 +31,9 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
 | UI            |Learn 5 UI desing principles for beginners |https://twitter.com/creator_yudai/status/1537268507284492288?s=20&t=lREeu9v28ZooFxkK-J-uxA|
 | UI            |How to get started as UI desinger |https://twitter.com/creator_yudai/status/1534501508410220550?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+| UI/UX         |17 Free resources for UI designers |https://twitter.com/creator_yudai/status/1531613981902884867?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+| UI/UX         |20 Free resources for UI designers part 2 |https://twitter.com/creator_yudai/status/1544288461481459713?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+
 
 
 
