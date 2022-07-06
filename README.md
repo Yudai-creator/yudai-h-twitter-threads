@@ -29,6 +29,9 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | UI/UX         |5 Animation Techniques that you can use in your websites to improve UX|https://twitter.com/creator_yudai/status/1436247230202187776?s=21|
 | UI/UX         |Take advantage of animations, 5 reasons why 👉 |https://twitter.com/creator_yudai/status/1434884402161623044?s=21|
 | UX            |Animations pros and cons |https://twitter.com/creator_yudai/status/1435329865792765956?s=21|
+| UI            |Learn 5 UI desing principles for beginners |https://twitter.com/creator_yudai/status/1537268507284492288?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+| UI            |How to get started as UI desinger |https://twitter.com/creator_yudai/status/1534501508410220550?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+
 
 
 ## Sass threads
@@ -37,6 +40,14 @@ I love doing UI design, experiment with UX design, sometimes I write threads abo
 | ------------- | ------------- |------------- |
 | Sass          |Sass introduction for beginners|https://twitter.com/creator_yudai/status/1508783328132018181?s=20&t=GZu00Jsfckbxx5w--rdB6g1|
 | Sass          |Sass functions to add complex logic to CSS |https://twitter.com/creator_yudai/status/1511375148368154633?s=20&t=AWoHDBhBs78U72pZdAuxEQ|
+
+
+## Javascript threads
+
+| Label         | Topic | Link|
+| ------------- | ------------- |------------- |
+| JS            |Javascript high order array methods|https://twitter.com/creator_yudai/status/1534139103696015368?s=20&t=lREeu9v28ZooFxkK-J-uxA|
+| JS            |9 modern Javascript features |https://twitter.com/creator_yudai/status/1531968617960570886?s=20&t=lREeu9v28ZooFxkK-J-uxA|
 
 ## Popular threads 🚀
 
